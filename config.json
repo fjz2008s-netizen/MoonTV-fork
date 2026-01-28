@@ -128,17 +128,17 @@
     },
     "www.ryzyw.com": {
       "name": "🎬如意资源",
-      "api": "https://pz.168188.dpdns.org/?url=https://cj.rycjapi.com/api.php/provide/vod",
+      "api": "https://cj.rycjapi.com/api.php/provide/vod",
       "detail": "https://www.ryzyw.com"
     },
     "www.haohuazy.com": {
       "name": "🎬豪华资源",
-      "api": "https://pz.168188.dpdns.org/?url=https://hhzyapi.com/api.php/provide/vod",
+      "api": "https://hhzyapi.com/api.php/provide/vod",
       "detail": "https://www.haohuazy.com"
     },
     "bdzy1.com": {
       "name": "🎬百度云zy",
-      "api": "https://pz.168188.dpdns.org/?url=https://api.apibdzy.com/api.php/provide/vod",
+      "api": "https://api.apibdzy.com/api.php/provide/vod",
       "detail": "https://bdzy1.com"
     },
     "lovedan.net": {

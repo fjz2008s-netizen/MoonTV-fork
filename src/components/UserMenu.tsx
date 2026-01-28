@@ -50,7 +50,9 @@ export const UserMenu: React.FC = () => {
   // 获取认证信息和存储类型
   useEffect(() => {
     if (typeof window !== 'undefined') {
-      const auth = getAuthInfoFromBrowserCookie();
+      //const auth = getAuthInfoFromBrowserCookie();
+      // 强制返回已登录状态，直接进主页（无需密码）
+const auth = { username: 'admin', role: 'owner' };
       setAuthInfo(auth);
 
       const type =
